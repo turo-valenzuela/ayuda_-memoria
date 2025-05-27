@@ -1,11 +1,7 @@
-# UN DÍA, UN LENGUAJE
+# Memoria para programación
 
 ## Cómo dar en un día tus primeros pasos en cada lenguaje de programación
 
-![](./Media/header.jpg)
-
-### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev). Cada semana le dedico un día a un nuevo lenguaje de programación.
-> ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
 
 ## Introducción
 
